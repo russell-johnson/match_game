@@ -1,0 +1,35 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  border: 1px solid green;
+}
+
+.black-background {
+  background-color: red;
+  color: white;
+}
+
+.white-text{
+  color: white;
+}
+
+.blue-text{
+  color: blue;
+}
+
+#jquery_button {
+  cursor: pointer
+}
+.home{
+  background-color: darken(green,9);
+  padding: 200px;
+}
+.header{
+  background-color: green;
+  text-align: center
+}
